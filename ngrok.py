@@ -15,7 +15,7 @@ from pyngrok import conf
 import sys
 
 # Change these to your own settings
-auth_token = "2TpKk6ZAicA3r8wwQmi0nIOyyRd_2QPuXXL2HV597GW8tSNhc"
+auth_token = " "
 protocol = "tcp"
 portn = "25565"
 region = "ap"
